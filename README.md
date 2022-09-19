@@ -10,7 +10,4 @@
   <a href="https://github.com/zhaogd233">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhaogd233&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-  <a href="https://zhaogd233.github.io">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhaogd233&repo=zhaogd233.github.io&theme=algolia" />
-  </a>
 </p>
