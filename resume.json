@@ -21,58 +21,54 @@
 		"workPlace": "北京",
 		"positionTitle": "u3d资深、主程"
 	},
-	"educationList": [
-		{
-			"edu_time": [
-				"2009.09.01",
-				"2013.06.30"
-			],
-			"school": "山东农业大学",
-			"major": "计算机科技与技术",
-			"academic_degree": "本科",
-			"dataIndex": 0
-		}
-	],
+	"educationList": [{
+		"edu_time": [
+			"2009.09.01",
+			"2013.06.30"
+		],
+		"school": "山东农业大学",
+		"major": "计算机科技与技术",
+		"academic_degree": "本科",
+		"dataIndex": 0
+	}],
 	"awardList": [],
-	"workExpList": [
-		{
+	"workExpList": [{
 			"company_name": "北京乌萨尔科技",
 			"department_name": "合伙人",
-			"work_time": ["2019.11",]
+			"work_time": ["2019.11", "至今"],
 			"work_desc": "莉莉丝8000w投资，技术合伙创业，研发like 万国觉醒3d-SLG+x",
 			"dataIndex": 0
 		},
 		{
 			"company_name": "北京乐动卓越",
 			"department_name": "我叫MT4/5",
-			"work_time": ["2015.04","2019.11"],
+			"work_time": ["2015.04", "2019.11"],
 			"work_desc": "完整u3d的mmo-MT4项目，腾讯独代首月流水8亿，后作为核心人员进行mt5预研UE4项目",
 			"dataIndex": 1
 		},
 		{
 			"company_name": "华策光通信科技",
 			"department_name": "卡牌竞技",
-			"work_time": ["2014.9","2015.4"],
+			"work_time": ["2014.9", "2015.4"],
 			"work_desc": "应用科技公司，单独一个游戏部门，尝试游戏市场拓展",
 			"dataIndex": 2
 		},
 		{
-			"work_time": ["2013.2","2014.9"],
+			"work_time": ["2013.2", "2014.9"],
 			"company_name": "北京趣游",
 			"department_name": "移动产品一组",
 			"work_desc": "传统页游功能，新成立的手游组，一开始u3d小游戏，后做cocos2d-x网络卡牌游戏",
 			"dataIndex": 3
 		},
 		{
-			"work_time": ["2012.7","2013.2"],
+			"work_time": ["2012.7", "2013.2"],
 			"company_name": "北京方正科技",
 			"department_name": "实习",
 			"work_desc": "负责电⼦书阅读软件Apabi Reader的ios+android开发",
 			"dataIndex": 4
 		}
 	],
-	"skillList": [
-		{
+	"skillList": [{
 			"skill_name": "热更",
 			"skill_desc": "精通c#,Lua热更语言，熟悉java,python语言",
 			"skill_level": 80,
@@ -107,8 +103,7 @@
 			"skill_desc": "熟悉UPR流程及渲染，能用shader实现游戏简单效果"
 		}
 	],
-	"projectList": [
-		{
+	"projectList": [{
 			"project_name": "卡塔纪元",
 			"project_role": "资深研发",
 			"project_time": "2019.11 - 至今",
